@@ -7,7 +7,6 @@ properly accompanied by a Contributor Agreement. The Contributor
 Agreement for this software is the Developer's Certificate of Origin
 1.1 (DCO) as provided with and required for accepting contributions
 to the Linux kernel.
-
 In each contribution proposed to be included in this software, the
 developer must include a "sign-off" that denotes consent to the
 terms of the Developer's Certificate of Origin.  The sign-off is
